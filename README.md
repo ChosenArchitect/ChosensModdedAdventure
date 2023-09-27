@@ -15,4 +15,4 @@ Things to keep in mind:
 2. If you have any questions ask them on my Discord!
 
 [curseImg]: https://cf.way2muchnoise.eu/project-architect.svg?badge_style=for_the_badge
-[curseLink]: Linksoon
+[curseLink]: https://legacy.curseforge.com/minecraft/modpacks/chosens-modded-adventure
